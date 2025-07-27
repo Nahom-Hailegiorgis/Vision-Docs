@@ -1,100 +1,53 @@
-# Vision-Docs
+# Vision
 
-> 📱 MVP 1.0 Complete | 🔊 Spatial Audio Feedback | 📸 Real-time Object Detection
-
-**Vision** is an assistive mobile app designed to help visually impaired users navigate their environment. Using the device’s rear camera and object recognition, it detects obstacles and gives **audio cues** based on their **type, height, and distance**.
+**Vision** is an experimental mobile app designed to assist visually impaired users by detecting nearby objects and providing audio feedback based on their position and distance.
 
 ---
 
-## 🎯 Project Goals
+## 🎯 Project Overview
 
-- Help users detect and recognize nearby obstacles in real time
-- Use Google Vision API to identify objects in the camera frame
-- Generate **3D audio cues**:
-  - 🔊 Louder for closer objects
-  - 🧊 Quieter for farther ones
-  - 🎵 Different tones for obstacle height/type (e.g. ceiling vs backpack)
+- Captures rear camera snapshots on user command
+- Uses Google Vision API for object recognition
+- Identifies obstacles by height and distance
+- Plays unique sounds to inform users about obstacles
 
 ---
 
-## 🎥 MVP 1.0 Demo
+## 🎥 MVP 1.0 Demonstration
 
-👉 [Watch the video demo](#)  
-_https://drive.google.com/drive/u/2/folders/1Xikn3wVwp_KvkbVzWfj6FmeFWxJ9daFt
-
----
-
-## 🧠 How It Works (Simplified)
-
-1. **User presses "Snapshot" button**
-2. A single image is captured by the rear camera
-3. The image is sent to the **Google Vision API**
-4. Identified objects are:
-   - Categorized by height/location (high, mid, low, flat)
-   - Filtered by **proximity threshold**
-5. **Unique sounds** play depending on:
-   - Obstacle height
-   - Type
-   - Distance (volume modulation)
+Watch the demo here:  
+[Vision MVP 1.0 Video Recordings](https://drive.google.com/drive/u/2/folders/1Xikn3wVwp_KvkbVzWfj6FmeFWxJ9daFt)
 
 ---
 
-## 🔨 Current Features
+## 📅 Development Timeline
 
-- Rear-camera snapshot system
-- Google Vision API integration
-- Object category + height recognition
-- Distance-aware sound feedback
-- Differentiated sounds for multiple obstacles per frame
+For detailed progress updates, see [`timeline.md`](./timeline.md).
 
 ---
 
-## 🚧 In Progress (Upcoming Upgrades)
+## 🚀 Roadmap
 
-- Continuous detection mode
-- Real-time obstacle tracking
-- Adaptive sound generation with spatial awareness
-- Smarter distance estimation (depth sensing)
-- Custom audio profiles per user
+Upcoming features and improvements can be found in [`roadmap.md`](./roadmap.md).
 
 ---
 
-## 💡 Use Cases
+## 🧪 Research Notes
 
-- Navigation aid for people with visual impairments
-- Obstacle detection in low-light environments
-- Educational or accessibility-enhancing tool
+Insights and experiments are documented in [`research-notes.md`](./research-notes.md).
 
 ---
 
-## 🛑 Code Availability
+## 📂 Assets
 
-The source code is private during early-stage development.  
-If you're interested in contributing, collaborating, or learning more, feel free to [contact me](#).
-
----
-
-## 📅 Development Log (Optional)
-
-Check `timeline.md` for week-by-week progress and updates.  
-→ _Coming soon._
-
----
-
-## 🧠 Tech Stack
-
-| Purpose            | Tool/Library        |
-|--------------------|---------------------|
-| Object Detection   | Google Cloud Vision |
-| Audio Feedback     | Custom Sound Engine |
-| App Platform       | React Native (Expo) |
-| Device Input       | Mobile Camera API   |
+Visual aids like diagrams and screenshots are located in the [`assets/`](./assets) folder.
 
 ---
 
 ## 📫 Contact
 
-📧 Email: [nahomh1847@gmail.com]  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nahom-hailegiorgis/)
+For inquiries or collaboration, please reach out via GitHub or LinkedIn.
+
+GitHub Repo: [Vision Documentation Repository](https://github.com/Nahom-Hailegiorgis/Vision-Docs/tree/main)
 
 ---
