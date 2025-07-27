@@ -1,8 +1,8 @@
-# Development Timeline
+# Development Timeline for Vision
 
-## MVP 1.0 – Complete as of 7/25/25
-- Implemented rear-camera image capture
-- Integrated Google Vision API for object recognition
-- Created basic audio feedback system
-- Categorized obstacles by height/type
-- Distance-aware volume modulation
+## July 2025 – MVP 1.0 Complete
+- Implemented snapshot capture with rear camera
+- Integrated Google Vision API for object detection
+- Developed obstacle categorization by height and type
+- Audio feedback varies with object distance and height
+- Recorded MVP 1.0 demonstration video
