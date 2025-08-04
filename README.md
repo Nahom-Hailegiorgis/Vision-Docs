@@ -14,7 +14,7 @@ You can try **Vision** directly on your mobile phone using Expo Go (no build or 
 
 2. **Open Expo Go**
 
-4. Instead of manually entering the link, just scan this QR code inside the **Expo Go** app: ![Expo Go QR Code](./assets/expo-qr-code.png)
+4. Instead of manually entering the link, just scan this QR code inside the **Expo Go** app or in your phone's camera app: ![Expo Go QR Code](./assets/expo-qr-code.png)
 
 > Make sure your device allows camera access for Expo Go and that you're in a well-lit area for object detection to work accurately.
 
