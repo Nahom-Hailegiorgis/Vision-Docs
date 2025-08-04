@@ -23,8 +23,8 @@ You can try **Vision** directly on your mobile phone using Expo Go (no build or 
 
 ### 🎥 Backup Demo Video  
 If you can’t access the live demo, here’s a recorded demonstration of Vision in action:  
-[📹 Watch the MVP Video (Google Drive)](https://drive.google.com/drive/u/2/folders/1Xikn3wVwp_KvkbVzWfj6FmeFWxJ9daFt)   |   
-[📹 Watch the MVP V1.1 Video (Youtube)](https://www.youtube.com/watch?v=wyxm6U-NnHk)
+[📹 Watch the MVP Video (Google Drive)](https://drive.google.com/drive/u/2/folders/1Xikn3wVwp_KvkbVzWfj6FmeFWxJ9daFt) or   
+[Watch the MVP V1.1 Video (Youtube)](https://www.youtube.com/watch?v=wyxm6U-NnHk)
 
 ---
 
