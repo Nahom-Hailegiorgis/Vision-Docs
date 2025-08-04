@@ -29,7 +29,7 @@ If you can’t access the live demo, here’s a recorded demonstration of Vision
 ---
 
 ### 🧪 Notes for Testers & Judges
-- Tap anywhere on the screen to trigger a scan.
+- Tap the scan obstacles button to trigger a scan.
 - The app detects objects and plays audio feedback depending on the height and distance.
 - Use headphones for best sound experience.
 
